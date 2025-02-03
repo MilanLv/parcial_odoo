@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <record id="apodera_alumno_1" model="agenda.apoderado.alumno">
+        <field name="apoderado_id">1</field>
+        <field name="alumno_id">1</field>
+    </record>
+    <record id="apodera_alumno_2" model="agenda.apoderado.alumno">
+        <field name="apoderado_id">1</field>
+        <field name="alumno_id">2</field>
+    </record>
+
+    
+</odoo>
+
